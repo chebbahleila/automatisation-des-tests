@@ -22,6 +22,8 @@ installation de selenium : https://www.seleniumhq.org/download/
 telechargement les dernieres versions de selenium-server-standalone & selenium-server.zip voir les videos pour les ajouter dans ecplise:
 https://www.youtube.com/watch?v=5FUdrBq-WFo&list=PL9ooVrP1hQOFP9H8Y15DVGCA6GavhgJ8a&index=1 à visioner a partir de 1:45
 
+pour telecharger le fichier jar selenium-server-standalone-jar aller sur ce lien : https://github.com/adamhooper/selenium-server-standalone-jar/tree/master/jar
+
 TestNG
 
 TestNG permet d'avoir un rapport de tests, c'est plus lisible de voir une liste avec les tests OK et KO,
